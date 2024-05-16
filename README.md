@@ -4,7 +4,9 @@
 ![giphy](https://github.com/jorge040/Curso-Azure-900-/assets/46494068/3209ec81-0bf8-4c9c-abf7-230aed2880ea)
 
 <br>
+
 El objetivo primordial de este curso es prepararte para aprobar con éxito el examen de certificación AZ-900. Para lograrlo, abordaremos los siguientes aspectos:
+
 <br>
 
 - Introducción al concepto de la nube.
